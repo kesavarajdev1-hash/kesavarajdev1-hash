@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/KESAVARAJ-DEV" target="_blank">
+  <a href="https://github.com/kesavarajdev1-hash" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -81,23 +81,22 @@
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KESAVARAJ-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESAVARAJ-DEV&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kesavarajdev1-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavarajdev1-hash&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KESAVARAJ-DEV&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kesavarajdev1-hash&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KESAVARAJ-DEV&theme=react-dark&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavarajdev1-hash&theme=react-dark&hide_border=true" />
 </p>
 
 ---
